@@ -1,0 +1,5 @@
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RefOut\obj\Debug\net7.0\RefOut.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RefOut\obj\Debug\net7.0\RefOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RefOut\obj\Debug\net7.0\RefOut.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RefOut\obj\Debug\net7.0\RefOut.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RefOut\obj\Debug\net7.0\RefOut.csproj.CoreCompileInputs.cache

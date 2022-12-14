@@ -10,7 +10,7 @@ string[] arr = { "Null", "NullLy", "Lâm" };
 //    Console.WriteLine($"{item} có chiều dài {item.Length}");
 //}
 
-IEnumerable e = (IEnumerable)arr.GetEnumerator();
+IEnumerable e = arr.GetEnumerator();
 while (e.MoveNext())
 {
     string s = (string)e.Current;

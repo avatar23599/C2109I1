@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCaseCSharp", "SwitchC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoeachWhile", "FoeachWhile\FoeachWhile.csproj", "{D2CA7A28-9132-4FFD-811B-A887957B5188}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOut", "RefOut\RefOut.csproj", "{449469E0-1B28-4F20-A6D9-39C2B0AC4982}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D2CA7A28-9132-4FFD-811B-A887957B5188}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2CA7A28-9132-4FFD-811B-A887957B5188}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2CA7A28-9132-4FFD-811B-A887957B5188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449469E0-1B28-4F20-A6D9-39C2B0AC4982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449469E0-1B28-4F20-A6D9-39C2B0AC4982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449469E0-1B28-4F20-A6D9-39C2B0AC4982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449469E0-1B28-4F20-A6D9-39C2B0AC4982}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
