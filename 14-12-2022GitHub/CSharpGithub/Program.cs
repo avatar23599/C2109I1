@@ -1,4 +1,6 @@
 ﻿//format code Ctrl K +D
+using System.Text;
+
 double a = 0.1;
 double b = 0.2;
 Console.WriteLine(a+ b ==0.3?"true":"false");
@@ -34,3 +36,4 @@ bool? check = null;
 //??-> null-coalescing operator
 //tương tự dấu ==, fullname = null trả về vế sau
 int? lenght = fullname?.Length??0;
+
