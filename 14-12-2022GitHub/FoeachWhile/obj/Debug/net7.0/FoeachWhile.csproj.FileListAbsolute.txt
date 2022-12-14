@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\FoeachWhile\bin\Debug\net7.0\FoeachWhile.exe
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\FoeachWhile\bin\Debug\net7.0\FoeachWhile.deps.json
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\FoeachWhile\bin\Debug\net7.0\FoeachWhile.runtimeconfig.json
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\FoeachWhile\bin\Debug\net7.0\FoeachWhile.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\FoeachWhile\bin\Debug\net7.0\FoeachWhile.pdb
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\FoeachWhile\obj\Debug\net7.0\FoeachWhile.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\FoeachWhile\obj\Debug\net7.0\FoeachWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\FoeachWhile\obj\Debug\net7.0\FoeachWhile.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\FoeachWhile\obj\Debug\net7.0\FoeachWhile.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\FoeachWhile\obj\Debug\net7.0\FoeachWhile.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\FoeachWhile\obj\Debug\net7.0\FoeachWhile.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\FoeachWhile\obj\Debug\net7.0\refint\FoeachWhile.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\FoeachWhile\obj\Debug\net7.0\FoeachWhile.pdb
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\FoeachWhile\obj\Debug\net7.0\FoeachWhile.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\FoeachWhile\obj\Debug\net7.0\ref\FoeachWhile.dll
