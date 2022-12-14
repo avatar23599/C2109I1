@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\CSharpGithub\bin\Debug\net7.0\CSharpGithub.exe
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\CSharpGithub\bin\Debug\net7.0\CSharpGithub.deps.json
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\CSharpGithub\bin\Debug\net7.0\CSharpGithub.runtimeconfig.json
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\CSharpGithub\bin\Debug\net7.0\CSharpGithub.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\CSharpGithub\bin\Debug\net7.0\CSharpGithub.pdb
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\CSharpGithub\obj\Debug\net7.0\CSharpGithub.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\CSharpGithub\obj\Debug\net7.0\CSharpGithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\CSharpGithub\obj\Debug\net7.0\CSharpGithub.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\CSharpGithub\obj\Debug\net7.0\CSharpGithub.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\CSharpGithub\obj\Debug\net7.0\CSharpGithub.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\CSharpGithub\obj\Debug\net7.0\CSharpGithub.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\CSharpGithub\obj\Debug\net7.0\refint\CSharpGithub.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\CSharpGithub\obj\Debug\net7.0\CSharpGithub.pdb
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\CSharpGithub\obj\Debug\net7.0\CSharpGithub.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\CSharpGithub\obj\Debug\net7.0\ref\CSharpGithub.dll
