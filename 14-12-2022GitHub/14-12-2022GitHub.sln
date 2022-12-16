@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefOut", "RefOut\RefOut.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexTryPane", "RegexTryPane\RegexTryPane.csproj", "{4D1B790F-1F5C-4D04-B6DA-042F94681679}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClass", "PartialClass\PartialClass.csproj", "{6C7F58CF-B1BA-4655-9837-EC002BA66A52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgumentAndParams", "ArgumentAndParams\ArgumentAndParams.csproj", "{743BA060-C044-4D2E-9441-40BC1917267C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{4D1B790F-1F5C-4D04-B6DA-042F94681679}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D1B790F-1F5C-4D04-B6DA-042F94681679}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D1B790F-1F5C-4D04-B6DA-042F94681679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C7F58CF-B1BA-4655-9837-EC002BA66A52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C7F58CF-B1BA-4655-9837-EC002BA66A52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C7F58CF-B1BA-4655-9837-EC002BA66A52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C7F58CF-B1BA-4655-9837-EC002BA66A52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{743BA060-C044-4D2E-9441-40BC1917267C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743BA060-C044-4D2E-9441-40BC1917267C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{743BA060-C044-4D2E-9441-40BC1917267C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{743BA060-C044-4D2E-9441-40BC1917267C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\ArgumentAndParams\bin\Debug\net7.0\ArgumentAndParams.exe
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\ArgumentAndParams\bin\Debug\net7.0\ArgumentAndParams.deps.json
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\ArgumentAndParams\bin\Debug\net7.0\ArgumentAndParams.runtimeconfig.json
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\ArgumentAndParams\bin\Debug\net7.0\ArgumentAndParams.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\ArgumentAndParams\bin\Debug\net7.0\ArgumentAndParams.pdb
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\ArgumentAndParams\obj\Debug\net7.0\ArgumentAndParams.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\ArgumentAndParams\obj\Debug\net7.0\ArgumentAndParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\ArgumentAndParams\obj\Debug\net7.0\ArgumentAndParams.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\ArgumentAndParams\obj\Debug\net7.0\ArgumentAndParams.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\ArgumentAndParams\obj\Debug\net7.0\ArgumentAndParams.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\ArgumentAndParams\obj\Debug\net7.0\ArgumentAndParams.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\ArgumentAndParams\obj\Debug\net7.0\refint\ArgumentAndParams.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\ArgumentAndParams\obj\Debug\net7.0\ArgumentAndParams.pdb
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\ArgumentAndParams\obj\Debug\net7.0\ArgumentAndParams.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\ArgumentAndParams\obj\Debug\net7.0\ref\ArgumentAndParams.dll
