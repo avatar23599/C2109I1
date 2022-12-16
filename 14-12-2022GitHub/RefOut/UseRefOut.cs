@@ -12,8 +12,10 @@ internal class UseRefOut
     public void ShowInfo()=>
         Console.WriteLine("Thong tin ve class nay");
     
-    public static void ChangeNumber(ref int a, ref int  b)
+    public static void ChangeNumber(out int a, out int  b)
     {
+        a = 10;
+        b = 5;
         int tam = a;
         a = b;
         b = tam;

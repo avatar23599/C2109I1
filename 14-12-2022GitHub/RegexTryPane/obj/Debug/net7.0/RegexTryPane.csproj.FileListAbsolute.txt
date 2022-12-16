@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RegexTryPane\bin\Debug\net7.0\RegexTryPane.exe
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RegexTryPane\bin\Debug\net7.0\RegexTryPane.deps.json
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RegexTryPane\bin\Debug\net7.0\RegexTryPane.runtimeconfig.json
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RegexTryPane\bin\Debug\net7.0\RegexTryPane.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RegexTryPane\bin\Debug\net7.0\RegexTryPane.pdb
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RegexTryPane\obj\Debug\net7.0\RegexTryPane.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RegexTryPane\obj\Debug\net7.0\RegexTryPane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RegexTryPane\obj\Debug\net7.0\RegexTryPane.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RegexTryPane\obj\Debug\net7.0\RegexTryPane.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RegexTryPane\obj\Debug\net7.0\RegexTryPane.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RegexTryPane\obj\Debug\net7.0\RegexTryPane.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RegexTryPane\obj\Debug\net7.0\refint\RegexTryPane.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RegexTryPane\obj\Debug\net7.0\RegexTryPane.pdb
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RegexTryPane\obj\Debug\net7.0\RegexTryPane.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\RegexTryPane\obj\Debug\net7.0\ref\RegexTryPane.dll
