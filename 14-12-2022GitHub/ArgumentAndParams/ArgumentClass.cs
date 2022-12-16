@@ -18,7 +18,7 @@ internal class ArgumentClass
     =>
     Console.WriteLine($"{nameof(a)} = {a}, {nameof(b)} = {b}, {nameof(c)} = {c}");//expression body
 
-    public void SumParam(params int[] values)
+    public void SumParam(params int[] values)//params => tự hiểu và tự đẩy các số vào mảng
     {
         int? sum = 0;
         foreach ( var i in values ) 
