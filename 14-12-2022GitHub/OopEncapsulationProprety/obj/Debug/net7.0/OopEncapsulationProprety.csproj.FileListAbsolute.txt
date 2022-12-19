@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopEncapsulationProprety\bin\Debug\net7.0\OopEncapsulationProprety.exe
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopEncapsulationProprety\bin\Debug\net7.0\OopEncapsulationProprety.deps.json
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopEncapsulationProprety\bin\Debug\net7.0\OopEncapsulationProprety.runtimeconfig.json
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopEncapsulationProprety\bin\Debug\net7.0\OopEncapsulationProprety.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopEncapsulationProprety\bin\Debug\net7.0\OopEncapsulationProprety.pdb
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopEncapsulationProprety\obj\Debug\net7.0\OopEncapsulationProprety.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopEncapsulationProprety\obj\Debug\net7.0\OopEncapsulationProprety.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopEncapsulationProprety\obj\Debug\net7.0\OopEncapsulationProprety.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopEncapsulationProprety\obj\Debug\net7.0\OopEncapsulationProprety.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopEncapsulationProprety\obj\Debug\net7.0\OopEncapsulationProprety.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopEncapsulationProprety\obj\Debug\net7.0\OopEncapsulationProprety.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopEncapsulationProprety\obj\Debug\net7.0\refint\OopEncapsulationProprety.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopEncapsulationProprety\obj\Debug\net7.0\OopEncapsulationProprety.pdb
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopEncapsulationProprety\obj\Debug\net7.0\OopEncapsulationProprety.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopEncapsulationProprety\obj\Debug\net7.0\ref\OopEncapsulationProprety.dll

@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismOverride\obj\Debug\net7.0\OopPolymorphismOverride.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismOverride\obj\Debug\net7.0\OopPolymorphismOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismOverride\obj\Debug\net7.0\OopPolymorphismOverride.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismOverride\obj\Debug\net7.0\OopPolymorphismOverride.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismOverride\obj\Debug\net7.0\OopPolymorphismOverride.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismOverride\bin\Debug\net7.0\OopPolymorphismOverride.exe
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismOverride\bin\Debug\net7.0\OopPolymorphismOverride.deps.json
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismOverride\bin\Debug\net7.0\OopPolymorphismOverride.runtimeconfig.json
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismOverride\bin\Debug\net7.0\OopPolymorphismOverride.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismOverride\bin\Debug\net7.0\OopPolymorphismOverride.pdb
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismOverride\obj\Debug\net7.0\OopPolymorphismOverride.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismOverride\obj\Debug\net7.0\refint\OopPolymorphismOverride.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismOverride\obj\Debug\net7.0\OopPolymorphismOverride.pdb
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismOverride\obj\Debug\net7.0\OopPolymorphismOverride.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismOverride\obj\Debug\net7.0\ref\OopPolymorphismOverride.dll

@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismInteface\bin\Debug\net7.0\OopPolymorphismInteface.exe
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismInteface\bin\Debug\net7.0\OopPolymorphismInteface.deps.json
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismInteface\bin\Debug\net7.0\OopPolymorphismInteface.runtimeconfig.json
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismInteface\bin\Debug\net7.0\OopPolymorphismInteface.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismInteface\bin\Debug\net7.0\OopPolymorphismInteface.pdb
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismInteface\obj\Debug\net7.0\OopPolymorphismInteface.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismInteface\obj\Debug\net7.0\OopPolymorphismInteface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismInteface\obj\Debug\net7.0\OopPolymorphismInteface.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismInteface\obj\Debug\net7.0\OopPolymorphismInteface.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismInteface\obj\Debug\net7.0\OopPolymorphismInteface.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismInteface\obj\Debug\net7.0\OopPolymorphismInteface.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismInteface\obj\Debug\net7.0\refint\OopPolymorphismInteface.dll
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismInteface\obj\Debug\net7.0\OopPolymorphismInteface.pdb
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismInteface\obj\Debug\net7.0\OopPolymorphismInteface.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\C2109I1\14-12-2022GitHub\OopPolymorphismInteface\obj\Debug\net7.0\ref\OopPolymorphismInteface.dll

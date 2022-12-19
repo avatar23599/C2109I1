@@ -14,7 +14,7 @@ public class Plant
 
     internal void Internal()//trong cùng project là được sài
     =>
-     Console.WriteLine("Internal");
+    Console.WriteLine("Internal");
     private protected void PrivateProtected()//có chức năng của private hoặc chức năng của protected
     => 
     Console.WriteLine("PrivateProtected");
