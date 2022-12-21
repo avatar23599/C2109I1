@@ -23,13 +23,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopEbcapsulation", "OopEbca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopEbcapsulationCont", "OopEbcapsulationCont\OopEbcapsulationCont.csproj", "{07CD3B46-D87B-4880-9122-360A3AEB0539}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopEncapsulationProprety", "OopEncapsulationProprety\OopEncapsulationProprety.csproj", "{AB4F4F42-FC59-4179-9065-FDF6E3C59DB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopEncapsulationProprety", "OopEncapsulationProprety\OopEncapsulationProprety.csproj", "{AB4F4F42-FC59-4179-9065-FDF6E3C59DB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPolymorphismOverloading", "OopPolymorphismOverloading\OopPolymorphismOverloading.csproj", "{120328C2-F2EC-4CA8-A9C7-1EE1BF81F3D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopPolymorphismOverloading", "OopPolymorphismOverloading\OopPolymorphismOverloading.csproj", "{120328C2-F2EC-4CA8-A9C7-1EE1BF81F3D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPolymorphismOverride", "OopPolymorphismOverride\OopPolymorphismOverride.csproj", "{AAD2EC49-B915-4F34-A9DC-5C16E87FF599}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopPolymorphismOverride", "OopPolymorphismOverride\OopPolymorphismOverride.csproj", "{AAD2EC49-B915-4F34-A9DC-5C16E87FF599}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OopPolymorphismInteface", "OopPolymorphismInteface\OopPolymorphismInteface.csproj", "{12B9DD86-D575-4EC2-996C-401AF5DD4C27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OopPolymorphismInteface", "OopPolymorphismInteface\OopPolymorphismInteface.csproj", "{12B9DD86-D575-4EC2-996C-401AF5DD4C27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtentionMethod", "ExtentionMethod\ExtentionMethod.csproj", "{0F1329D0-566D-491B-8349-E9931AA73E01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListAndLINQ", "ListAndLINQ\ListAndLINQ.csproj", "{51FBC5A9-3D06-4B36-B353-BB75A8BB764E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +97,14 @@ Global
 		{12B9DD86-D575-4EC2-996C-401AF5DD4C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12B9DD86-D575-4EC2-996C-401AF5DD4C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12B9DD86-D575-4EC2-996C-401AF5DD4C27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F1329D0-566D-491B-8349-E9931AA73E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F1329D0-566D-491B-8349-E9931AA73E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F1329D0-566D-491B-8349-E9931AA73E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F1329D0-566D-491B-8349-E9931AA73E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51FBC5A9-3D06-4B36-B353-BB75A8BB764E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51FBC5A9-3D06-4B36-B353-BB75A8BB764E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51FBC5A9-3D06-4B36-B353-BB75A8BB764E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51FBC5A9-3D06-4B36-B353-BB75A8BB764E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
