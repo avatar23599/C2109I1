@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\C2109I1\CSharpBaiTap1\BuiQuangLam_Baitap1\bin\Debug\net7.0\BuiQuangLam_Baitap1.exe
+C:\Users\ADMIN\source\repos\C2109I1\CSharpBaiTap1\BuiQuangLam_Baitap1\bin\Debug\net7.0\BuiQuangLam_Baitap1.deps.json
+C:\Users\ADMIN\source\repos\C2109I1\CSharpBaiTap1\BuiQuangLam_Baitap1\bin\Debug\net7.0\BuiQuangLam_Baitap1.runtimeconfig.json
+C:\Users\ADMIN\source\repos\C2109I1\CSharpBaiTap1\BuiQuangLam_Baitap1\bin\Debug\net7.0\BuiQuangLam_Baitap1.dll
+C:\Users\ADMIN\source\repos\C2109I1\CSharpBaiTap1\BuiQuangLam_Baitap1\bin\Debug\net7.0\BuiQuangLam_Baitap1.pdb
+C:\Users\ADMIN\source\repos\C2109I1\CSharpBaiTap1\BuiQuangLam_Baitap1\obj\Debug\net7.0\BuiQuangLam_Baitap1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\C2109I1\CSharpBaiTap1\BuiQuangLam_Baitap1\obj\Debug\net7.0\BuiQuangLam_Baitap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\C2109I1\CSharpBaiTap1\BuiQuangLam_Baitap1\obj\Debug\net7.0\BuiQuangLam_Baitap1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\C2109I1\CSharpBaiTap1\BuiQuangLam_Baitap1\obj\Debug\net7.0\BuiQuangLam_Baitap1.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\C2109I1\CSharpBaiTap1\BuiQuangLam_Baitap1\obj\Debug\net7.0\BuiQuangLam_Baitap1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\C2109I1\CSharpBaiTap1\BuiQuangLam_Baitap1\obj\Debug\net7.0\BuiQuangLam_Baitap1.dll
+C:\Users\ADMIN\source\repos\C2109I1\CSharpBaiTap1\BuiQuangLam_Baitap1\obj\Debug\net7.0\refint\BuiQuangLam_Baitap1.dll
+C:\Users\ADMIN\source\repos\C2109I1\CSharpBaiTap1\BuiQuangLam_Baitap1\obj\Debug\net7.0\BuiQuangLam_Baitap1.pdb
+C:\Users\ADMIN\source\repos\C2109I1\CSharpBaiTap1\BuiQuangLam_Baitap1\obj\Debug\net7.0\BuiQuangLam_Baitap1.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\C2109I1\CSharpBaiTap1\BuiQuangLam_Baitap1\obj\Debug\net7.0\ref\BuiQuangLam_Baitap1.dll

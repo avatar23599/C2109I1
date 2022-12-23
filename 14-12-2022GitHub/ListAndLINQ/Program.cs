@@ -27,7 +27,7 @@ sm.Restart();
 //sm.Restart();
 
 //tất cả các dạng của collection đều có mẫu để duyệt qua dữ liệu mà không dung đến for hay foreach =>ienumarator
-IEnumerator enu = students.GetEnumerator();
+//IEnumerator enu = students.GetEnumerator();
 //while (enu.MoveNext())
 //{
 //    Console.WriteLine(enu.Current);
@@ -62,12 +62,12 @@ IEnumerator enu = students.GetEnumerator();
 //        Console.WriteLine(stu);
 //    }
 //}
-foreach (var i in from t in students
-                  where t.RollNumber > 2
-                  select t)
-{
-    Console.WriteLine(i);
-}
+//foreach (var i in from t in students
+//                  where t.RollNumber > 2
+//                  select t)
+//{
+//    Console.WriteLine(i);
+//}
 //IEnumerable là con của IEnumbertor
 //tìm tổng số sinh viên trong cái List
 //dung để tính 1 lần
@@ -84,19 +84,20 @@ foreach (var i in from t in students
 //Console.WriteLine(listStu.Count());
 
 //linq to object style 2 methoh syntax
-var listStu = students.Where(stu => stu.RollNumber > 2);//đúng
+//var listStu = students.Where(stu => stu.RollNumber > 2);//đúng
 //var listSt = students.Where(stu => stu.RollNumber > 2).Select(stu => stu);//sai where tự động trả về không cần phải select
 //var listSt = students.Select(stu => stu).Where(stu => stu.RollNumber > 2);//sai
 
-foreach (var i in students.Where(stu => stu.RollNumber > 2))
-{
-    Console.WriteLine(i);
-}
+//foreach (var i in students.Where(stu => stu.RollNumber > 2))
+//{
+//    Console.WriteLine(i);
+//}
 
 //các phương thức có sẵn trong list
 students.ForEach(Console.WriteLine);
 students.ForEach(stu=> Console.WriteLine(stu));
-students.ForEach(stu =>
+students.ForEach(
+    stu =>
 {
     if (stu.RollNumber > 2)
     {
@@ -109,3 +110,74 @@ students.Where(stu => stu.RollNumber > 2)
         .ToList()
         .ForEach(Console.WriteLine);
 
+//Nếu sài được phương thức của nó trước trước thì dùng trước, sau đó hãy tới extension method
+//var r = from stu in students
+//        where stu.RollNumber > 2
+//        select new //anonymous type
+//        {
+//            stu.RollNumber,
+//            stu.Fullname
+//        };
+//r.ToList().ForEach(Console.WriteLine);
+
+
+//var r = from stu in students
+//        where stu.RollNumber > 2
+//        select new //anonymous type
+//        {
+//            StudentDetail = $"{stu.RollNumber}:{stu.Fullname}",
+//            StudentRoom = $"{stu.Section}={stu.HostelNumber}"
+//        };
+//r.ToList().ForEach(Console.WriteLine);
+
+//students.Select(stu => new
+//{
+//    StudentDetail = $"{stu.RollNumber}:{stu.Fullname}",
+//    StudentRoom = $"{stu.Section}={stu.HostelNumber}"
+//}).ToList() .ForEach(Console.WriteLine);
+
+foreach (var stu in students)
+{
+    Console.WriteLine(stu);
+}
+
+IEnumerator enu = students.GetEnumerator();//-> vong lập for
+while (enu.MoveNext())
+{
+
+}
+
+var t = from stu in students
+         select  stu;
+
+
+//lần đầu tiên nó sẽ thực thi trên sever-> trả về bộ nhớ
+//select * from list where RollNumber > 2
+IEnumerable<Student> i = from stu in students//->duyệt list bằng linq->linq to Object->làm về đối tượng
+                         where stu.RollNumber > 2
+                         select stu;
+//là vào bộ nhớ loại bỏ chỉ lấy 2 dòng đầu tiên
+i = i.Take(2);
+//lần đầu tiên nó sẽ thực thi trên sever-> trả về bộ nhớ
+//select * from list where RollNumber > 2
+IQueryable<Student> s = from stu in students.AsQueryable()//->linq to Sql->con của ienumertor-> làm về sql
+                        where stu.RollNumber > 2
+                        select stu;
+//select top(2) * from list where RollNumber > 2
+//sẽ chạy lên sever lần nữa
+s = s.Take(2);
+
+
+var k = from stu in students//var là IEnumerable<> chứ không phải list nên không dung forEach đc
+                         where stu.RollNumber > 2
+                         select stu;
+k.ToList().ForEach(Console.WriteLine);//collection
+
+//sắp xếp
+students.Order();
+var obj = from stu in students
+          where stu.RollNumber >2
+          orderby stu.Section descending, stu.HostelNumber ascending
+          select stu;
+var obj3 = students.Where(stu=>stu.RollNumber>2).OrderByDescending(stu => stu.Section)//sắp xếp theo order-> xong sắp xếp theo then 
+        .ThenBy(stu => stu.HostelNumber);
