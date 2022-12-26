@@ -6,8 +6,6 @@
 
 //Mathems.Div(10, 5);//dung 1 lần
 
-
 //new Mathems().Multi(10, 5);
-
 Abc dele = new Mathems().Multi;
-dele(10, 5);
+dele(10, 5);//safe thread: luồng an toàn-> sử dụng cpu nhiều luồng

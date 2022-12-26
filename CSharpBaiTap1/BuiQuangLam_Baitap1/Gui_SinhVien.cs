@@ -17,8 +17,7 @@ internal class Gui_SinhVien
         string ngaySinh;
         Entity_SinhVien EnSv = new();
 
-        while (true)
-        {
+        
         maSinhVien:
             Console.WriteLine("Mời bạn nhập Mã Sinh Viên: ");
             maSV = Console.ReadLine();
@@ -63,9 +62,9 @@ internal class Gui_SinhVien
             Console.WriteLine("Mời bạn nhập ngày sinh (mm/dd/yyyy): ");
             ngaySinh = Console.ReadLine();
             if (Helper_Validation.checkRegex(Helper_RegexConst.DATE, ngaySinh) == false) goto ngaySinh;
-            break;
 
-        }
+        
+
         if (chucnang == 1)//thêm sinh viên
         {
             sv.Add(new Entity_SinhVien()
