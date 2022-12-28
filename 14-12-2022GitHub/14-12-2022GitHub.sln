@@ -45,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entity", "Entity\Entity.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncAndAction", "FuncAndAction\FuncAndAction.csproj", "{6E7AA332-EEB6-468D-B086-DB01BE001E0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingTuple", "Tuple\UsingTuple.csproj", "{EA043001-9CF4-4726-A62F-59068BA916A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{6E7AA332-EEB6-468D-B086-DB01BE001E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E7AA332-EEB6-468D-B086-DB01BE001E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E7AA332-EEB6-468D-B086-DB01BE001E0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA043001-9CF4-4726-A62F-59068BA916A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA043001-9CF4-4726-A62F-59068BA916A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA043001-9CF4-4726-A62F-59068BA916A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA043001-9CF4-4726-A62F-59068BA916A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
