@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace ExeciseOop1.Service;
 internal interface IProduct
 {
-    void AddProduct();
+    void Them_SuaSP(int chucnang);
+
+    void Xem_XoaThongTinSP(int chucnang);
+
+    void SapXepToanBoSP();
+
 }

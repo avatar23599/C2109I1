@@ -1,12 +1,4 @@
-﻿using ExeciseOop1.ExtensionMethod;
-using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Reflection.Metadata.Ecma335;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace ExeciseOop1.Helper;
 internal class Validate <T>
 {
